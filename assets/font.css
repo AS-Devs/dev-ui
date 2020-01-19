@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
+
+body , iframe{
+    font-family: 'Lato', sans-serif;
+}
+#story-root {
+    padding: 10px 20px;
+}
